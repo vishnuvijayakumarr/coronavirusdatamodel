@@ -4,6 +4,8 @@
 
 Dedicated to the Coronavirus Data Model, a program that uses Linear Regression to predict confirmed cases of the virus in a one month time span in India. Constructive feedback is appreciated.
 
+DATA: https://github.com/datasets/covid-19.git. Special thanks to the people who organized the data. 
+
 ## Linear Regression
 Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable.
 For example, a modeler might want to relate the weights of individuals to their heights using a linear regression model.
